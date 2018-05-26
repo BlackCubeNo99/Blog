@@ -14,5 +14,5 @@
 * [JavaScript ES6 系列 - let、const 变量声明](https://github.com/Felix-Lin-725/Blog/issues/1)
 
 ### HTTP 系列
-* [HTTP 系列 - HTTP 状态码]()
+* [HTTP 系列 - HTTP 状态码](https://github.com/FelixLin-404/Blog/issues/12)
 * [HTTP 系列 - HTTP 协议]()
