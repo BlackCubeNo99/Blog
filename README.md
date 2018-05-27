@@ -19,7 +19,7 @@
 * [JavaScript 基础系列 - 闭包]()
 
 ### HTTP 系列
-* [HTTP 系列 - Headers]()
+* [HTTP 系列 - Headers](https://github.com/FelixLin-404/Blog/issues/13)
 * [HTTP 系列 - HTTP 状态码](https://github.com/FelixLin-404/Blog/issues/12)
 
 ### Vue 系列
