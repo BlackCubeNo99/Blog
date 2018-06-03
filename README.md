@@ -2,6 +2,9 @@
 博客
 
 ### JavaScript ES6 系列
+* [JavaScript ES6 系列 - 数据类型 Symbol](https://github.com/Felix-Lin-725/Blog/issues/17)
+* [JavaScript ES6 系列 - Promise](https://github.com/Felix-Lin-725/Blog/issues/16)
+* [JavaScript ES6 系列 - 对象字面量、对象方法简写](https://github.com/Felix-Lin-725/Blog/issues/11)
 * [JavaScript ES6 系列 - 剩余参数](https://github.com/Felix-Lin-725/Blog/issues/10)
 * [JavaScript ES6 系列 - find、findIndex、some、every 方法](https://github.com/Felix-Lin-725/Blog/issues/9)
 * [JavaScript ES6 系列 - Array.from、Array.of 方法](https://github.com/Felix-Lin-725/Blog/issues/8)
