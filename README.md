@@ -2,6 +2,7 @@
 博客
 
 ### JavaScript ES6 系列
+* [JavaScript ES6 系列 - Module](https://github.com/Felix-Lin-725/Blog/issues/18)
 * [JavaScript ES6 系列 - 数据类型 Symbol](https://github.com/Felix-Lin-725/Blog/issues/17)
 * [JavaScript ES6 系列 - Promise](https://github.com/Felix-Lin-725/Blog/issues/16)
 * [JavaScript ES6 系列 - 对象字面量、对象方法简写](https://github.com/Felix-Lin-725/Blog/issues/11)
