@@ -18,6 +18,7 @@
 * [JavaScript ES6 系列 - let、const 变量声明](https://github.com/Felix-Lin-725/Blog/issues/1)
 
 ### JavaScript 基础系列
+* [JavaScript 基础系列 - 防抖与节流](https://github.com/FelixLin-404/Blog/issues/20)
 * [JavaScript 基础系列 - 递归]()
 * [JavaScript 基础系列 - 继承]()
 * [JavaScript 基础系列 - 闭包]()
