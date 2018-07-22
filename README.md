@@ -17,25 +17,25 @@
 * [JavaScript ES6 系列 - 箭头函数](https://github.com/Felix-Lin-725/Blog/issues/2)
 * [JavaScript ES6 系列 - let、const 变量声明](https://github.com/Felix-Lin-725/Blog/issues/1)
 
-### JavaScript 基础系列
+### JavaScript 基础系列（编写中）
 * [JavaScript 基础系列 - 防抖与节流](https://github.com/FelixLin-404/Blog/issues/20)
-* 编写中 [JavaScript 基础系列 - 递归]()
-* 编写中 [JavaScript 基础系列 - 继承]()
-* 编写中 [JavaScript 基础系列 - 闭包]()
+* [JavaScript 基础系列 - 递归]()
+* [JavaScript 基础系列 - 继承]()
+* [JavaScript 基础系列 - 闭包]()
 
 ### HTTP 系列
 * [HTTP 系列 - Headers](https://github.com/FelixLin-404/Blog/issues/13)
 * [HTTP 系列 - HTTP 状态码](https://github.com/FelixLin-404/Blog/issues/12)
 
-### React 系列
-* 编写中 [React 系列 - 关于 React]()
-* 编写中 [React 系列 - 生命周期]()
-* 编写中 [React 系列 - 状态管理 Redux]()
-* 编写中 [React 系列 - 路由管理 React-route]()
-* 编写中 [React 系列 - 服务端渲染 NEXT.js]()
-* 编写中 [React 系列 - 单元测试]()
+### React 系列（编写中）
+* [React 系列 - 关于 React]()
+* [React 系列 - 生命周期]()
+* [React 系列 - 状态管理 Redux]()
+* [React 系列 - 路由管理 React-route]()
+* [React 系列 - 服务端渲染 NEXT.js]()
+* [React 系列 - 单元测试]()
 
-### Vue 系列
-* 编写中 [Vue 系列 - 双向绑定]()
-* 编写中 [Vue 系列 - 生命周期]()
-* 编写中 [Vue 系列 - SSR]()
+### Vue 系列（编写中）
+* [Vue 系列 - 双向绑定]()
+* [Vue 系列 - 生命周期]()
+* [Vue 系列 - SSR]()
