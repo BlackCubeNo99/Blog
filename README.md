@@ -1,5 +1,5 @@
 # Blog
-博客
+😋 博客
 
 ### JavaScript ES6 系列
 * [JavaScript ES6 系列 - Module](https://github.com/Felix-Lin-725/Blog/issues/18)
