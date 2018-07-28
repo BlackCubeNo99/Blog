@@ -39,3 +39,6 @@
 * [Vue 系列 - 双向绑定]()
 * [Vue 系列 - 生命周期]()
 * [Vue 系列 - SSR]()
+
+### 其他
+* [Web 前端开发精选工具](https://github.com/FelixLin-404/Blog/issues/21)
