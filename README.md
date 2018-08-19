@@ -28,7 +28,7 @@
 * [HTTP 系列 - HTTP 状态码](https://github.com/FelixLin-404/Blog/issues/12)
 
 ### React 系列（编写中）
-* [React 系列 - 关于 React]()
+* [React 系列 - 关于 React](https://github.com/FelixLin-404/Blog/issues/22)
 * [React 系列 - 生命周期]()
 * [React 系列 - 状态管理 Redux]()
 * [React 系列 - 路由管理 React-route]()
