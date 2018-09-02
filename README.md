@@ -19,9 +19,9 @@
 
 ### JavaScript 基础系列（编写中）
 * [JavaScript 基础系列 - 防抖与节流](https://github.com/FelixLin-404/Blog/issues/20)
+* [JavaScript 基础系列 - 闭包](https://github.com/FelixLin-404/Blog/issues/23)
 * [JavaScript 基础系列 - 递归]()
 * [JavaScript 基础系列 - 继承]()
-* [JavaScript 基础系列 - 闭包](https://github.com/FelixLin-404/Blog/issues/23)
 
 ### HTTP 系列
 * [HTTP 系列 - Headers](https://github.com/FelixLin-404/Blog/issues/13)
