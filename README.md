@@ -1,7 +1,7 @@
 # Blog
 博客
 
-### 日常写作
+### 写作
 
 * [探索 3D 物理世界 - Three.js and Cannon.js](https://github.com/Felix-Lin-725/Blog/issues/26)
 
