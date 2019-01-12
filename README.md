@@ -28,6 +28,9 @@
 * [JavaScript 基础系列 - 继承]()
 * [JavaScript 基础系列 - 跨域]()
 
+## 性能优化系列
+* [前端资源部署]()
+
 ### HTTP 系列
 * [HTTP 系列 - Headers](https://github.com/FelixLin-404/Blog/issues/13)
 * [HTTP 系列 - HTTP 状态码](https://github.com/FelixLin-404/Blog/issues/12)
