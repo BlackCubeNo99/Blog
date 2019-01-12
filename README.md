@@ -26,6 +26,7 @@
 * [JavaScript 基础系列 - 闭包](https://github.com/FelixLin-404/Blog/issues/23)
 * [JavaScript 基础系列 - 递归]()
 * [JavaScript 基础系列 - 继承]()
+* [JavaScript 基础系列 - 跨域]()
 
 ### HTTP 系列
 * [HTTP 系列 - Headers](https://github.com/FelixLin-404/Blog/issues/13)
