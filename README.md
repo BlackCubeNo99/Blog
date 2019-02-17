@@ -6,6 +6,7 @@
 * [探索 3D 物理世界 - Three.js and Cannon.js](https://github.com/Felix-Lin-725/Blog/issues/26)
 * [Phaser 3 游戏引擎特性一览](https://github.com/FelixLin-404/Blog/issues/27)
 * [科学上网教程 Google Cloud](https://github.com/FelixLin-404/Blog/issues/28)
+* [APNG - 更优秀的动图格式](https://github.com/FelixLin-404/Blog/issues/30)
 * [浅谈 WebVR](https://github.com/FelixLin-404/Blog/issues/29)
 
 ### JavaScript ES6 系列
