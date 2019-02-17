@@ -28,6 +28,9 @@
 * [JavaScript ES6 系列 - 箭头函数](https://github.com/Felix-Lin-725/Blog/issues/2)
 * [JavaScript ES6 系列 - let、const 变量声明](https://github.com/Felix-Lin-725/Blog/issues/1)
 
+### 其他
+* [Web 前端开发精选工具](https://github.com/FelixLin-404/Blog/issues/21)
+
 ### JavaScript 基础系列（编写中）
 * [JavaScript 基础系列 - 防抖与节流](https://github.com/FelixLin-404/Blog/issues/20)
 * [JavaScript 基础系列 - 闭包](https://github.com/FelixLin-404/Blog/issues/23)
@@ -54,6 +57,3 @@
 * [Vue 系列 - 双向绑定]()
 * [Vue 系列 - 生命周期]()
 * [Vue 系列 - SSR]()
-
-### 其他
-* [Web 前端开发精选工具](https://github.com/FelixLin-404/Blog/issues/21)
