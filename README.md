@@ -8,7 +8,7 @@
 * [Phaser 3 游戏引擎特性一览](https://github.com/FelixLin-404/Blog/issues/27)
 * [科学上网教程 Google Cloud](https://github.com/FelixLin-404/Blog/issues/28)
 * [H5 游戏开发：复古小蜜蜂](https://github.com/FelixLin-404/Blog/issues/32)
-* [更优秀的动图格式 - APNG](https://github.com/FelixLin-404/Blog/issues/30)
+* [也许是新一代的动画格式 - APNG](https://github.com/FelixLin-404/Blog/issues/30)
 * [浅谈 WebVR](https://github.com/FelixLin-404/Blog/issues/29)
 
 ### JavaScript ES6 系列
