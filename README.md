@@ -31,7 +31,7 @@
 ### 其他
 * [Web 前端开发精选工具](https://github.com/FelixLin-404/Blog/issues/21)
 
-### JavaScript 基础系列（编写中）
+### JavaScript 基础系列
 * [JavaScript 基础系列 - 防抖与节流](https://github.com/FelixLin-404/Blog/issues/20)
 * [JavaScript 基础系列 - 闭包](https://github.com/FelixLin-404/Blog/issues/23)
 
