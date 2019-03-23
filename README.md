@@ -35,6 +35,7 @@
 ### JavaScript 基础系列
 * [JavaScript 基础系列 - 防抖与节流](https://github.com/FelixLin-404/Blog/issues/20)
 * [JavaScript 基础系列 - 闭包](https://github.com/FelixLin-404/Blog/issues/23)
+* [JavaScript - 跨域](https://github.com/BlackCubeNo99/Blog/issues/33)
 
 ### HTTP 系列
 * [HTTP 系列 - Headers](https://github.com/FelixLin-404/Blog/issues/13)
