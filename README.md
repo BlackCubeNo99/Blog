@@ -32,9 +32,8 @@
 * [JavaScript 基础系列 - 闭包](https://github.com/FelixLin-404/Blog/issues/23)
 * [JavaScript 基础系列 - 跨域](https://github.com/BlackCubeNo99/Blog/issues/33)
 
-### Webpack 系列
-
 ### 其他
+* [前端冷知识](https://github.com/BlackCubeNo99/Blog/issues/36)
 * [前端编码建议](https://github.com/BlackCubeNo99/Blog/issues/34)
 * [Web 前端开发精选工具](https://github.com/FelixLin-404/Blog/issues/21)
 * [Node 爬虫常用工具](https://github.com/FelixLin-404/Blog/issues/15)
@@ -46,3 +45,6 @@
 
 ### React 系列（编写中）
 * [React 系列 - 关于 React](https://github.com/FelixLin-404/Blog/issues/22)
+
+### Webpack 系列（编写中）
+* 占位
