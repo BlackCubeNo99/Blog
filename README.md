@@ -35,6 +35,7 @@
 ### Webpack 系列
 
 ### 其他
+* [前端编码规范](https://github.com/BlackCubeNo99/Blog/issues/34)
 * [Web 前端开发精选工具](https://github.com/FelixLin-404/Blog/issues/21)
 * [Node 爬虫常用工具](https://github.com/FelixLin-404/Blog/issues/15)
 * [科学上网教程 Google Cloud](https://github.com/FelixLin-404/Blog/issues/28)
