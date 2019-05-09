@@ -34,7 +34,7 @@
 
 ### CSS 系列
 * [CSS 系列 - 常用 Sass 库汇总](https://github.com/BlackCubeNo99/Blog/issues/39)
-* [CSS 系列 - 移动端小技巧]()
+* [CSS 系列 - 移动端小技巧](https://github.com/BlackCubeNo99/Blog/issues/40)
 
 ### 其他
 * [「 前端冷知识 」](https://github.com/BlackCubeNo99/Blog/issues/36)
