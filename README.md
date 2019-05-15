@@ -43,6 +43,7 @@
 * [「 Node 爬虫常用工具 」](https://github.com/FelixLin-404/Blog/issues/15)
 * [「 科学上网教程 Google Cloud 」](https://github.com/FelixLin-404/Blog/issues/28)
 * [「 exif.js 和 html2canvas.js 使用总结 」](https://github.com/BlackCubeNo99/Blog/issues/38)
+* [「 Chrome 扩展快速入门 」](https://github.com/BlackCubeNo99/Blog/issues/41)
 
 ### HTTP 系列
 * [HTTP 系列 - Headers](https://github.com/FelixLin-404/Blog/issues/13)
