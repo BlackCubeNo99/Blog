@@ -31,7 +31,7 @@
 * [JavaScript 基础系列 - 防抖与节流](https://github.com/FelixLin-404/Blog/issues/20)
 * [JavaScript 基础系列 - 闭包](https://github.com/FelixLin-404/Blog/issues/23)
 * [JavaScript 基础系列 - 跨域](https://github.com/BlackCubeNo99/Blog/issues/33)
-* [JavaScript 基础系列 - 关于 Event Loop（编写中）]()
+* [JavaScript 基础系列 - 细谈 Event Loop](https://github.com/BlackCubeNo99/Blog/issues/36)
 
 ### CSS 系列
 * [CSS 系列 - 常用 Sass Mixis 汇总](https://github.com/BlackCubeNo99/Blog/issues/39)
@@ -41,7 +41,6 @@
 * [Phaser 游戏基础]()
 
 ### 其他
-* [「 前端冷知识 」](https://github.com/BlackCubeNo99/Blog/issues/36)
 * [「 前端编码建议 」](https://github.com/BlackCubeNo99/Blog/issues/34)
 * [「 Web 前端开发精选工具 」](https://github.com/FelixLin-404/Blog/issues/21)
 * [「 Node 爬虫常用工具 」](https://github.com/FelixLin-404/Blog/issues/15)
