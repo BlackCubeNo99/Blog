@@ -41,6 +41,7 @@
 * [Phaser 游戏基础]()
 
 ### 其他
+* [「 开发 Bug 集合 」](https://github.com/BlackCubeNo99/Blog/issues/44)
 * [「 前端编码建议 」](https://github.com/BlackCubeNo99/Blog/issues/34)
 * [「 Web 前端开发精选工具 」](https://github.com/FelixLin-404/Blog/issues/21)
 * [「 Node 爬虫常用工具 」](https://github.com/FelixLin-404/Blog/issues/15)
