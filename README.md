@@ -10,6 +10,9 @@
 * [「 浅谈 WebVR 」](https://github.com/FelixLin-404/Blog/issues/29)
 * [「 Whistle 使用实践指南 」](https://github.com/BlackCubeNo99/Blog/issues/35)
 
+### 前端工程化系列
+* [前端工程化系列 - 使用 Husky 提升前端代码质量](https://github.com/BlackCubeNo99/Blog/issues/43)
+
 ### JavaScript ES6 系列
 * [JavaScript ES6 系列 - 生成器 Generator](https://github.com/Felix-Lin-725/Blog/issues/25)
 * [JavaScript ES6 系列 - Module](https://github.com/Felix-Lin-725/Blog/issues/18)
