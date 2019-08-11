@@ -36,6 +36,13 @@
 * [JavaScript 基础系列 - 跨域](https://github.com/BlackCubeNo99/Blog/issues/33)
 * [JavaScript 基础系列 - 细谈 Event Loop](https://github.com/BlackCubeNo99/Blog/issues/36)
 
+### 性能优化系列（编写中）
+* [性能优化系列 - Node Redis 缓存策略](https://github.com/BlackCubeNo99/Blog/issues/45)
+* [性能优化系列 - 前端资源部署]()
+* [性能优化系列 - 应用 PWA 功能]()
+* [性能优化系列 - 懒加载]()
+* [性能优化系列 - 长列表优化]()
+
 ### CSS 系列
 * [CSS 系列 - 常用 Sass Mixis 汇总](https://github.com/BlackCubeNo99/Blog/issues/39)
 * [CSS 系列 - 移动端小技巧](https://github.com/BlackCubeNo99/Blog/issues/40)
@@ -76,9 +83,3 @@
 
 ### Node 系列（编写中）
 * 占位
-
-### 性能优化系列（编写中）
-* [性能优化系列 - Node Redis 缓存策略](https://github.com/BlackCubeNo99/Blog/issues/45)
-* [性能优化系列 - 前端资源部署]()
-* [性能优化系列 - 应用 PWA 功能]()
-* [性能优化系列 - 懒加载]()
