@@ -12,6 +12,7 @@
 
 ### 前端工程化系列
 * [前端工程化系列 - 使用 Husky 提升前端代码质量](https://github.com/BlackCubeNo99/Blog/issues/43)
+* [前端工程化系列 - 前端编码建议](https://github.com/BlackCubeNo99/Blog/issues/34)
 
 ### JavaScript ES6 系列
 * [JavaScript ES6 系列 - 生成器 Generator](https://github.com/Felix-Lin-725/Blog/issues/25)
@@ -52,7 +53,6 @@
 
 ### 其他
 * [「 开发 Bug 集合 」](https://github.com/BlackCubeNo99/Blog/issues/44)
-* [「 前端编码建议 」](https://github.com/BlackCubeNo99/Blog/issues/34)
 * [「 Web 前端开发精选工具 」](https://github.com/FelixLin-404/Blog/issues/21)
 * [「 Node 爬虫常用工具 」](https://github.com/FelixLin-404/Blog/issues/15)
 * [「 科学上网教程 Google Cloud 」](https://github.com/FelixLin-404/Blog/issues/28)
