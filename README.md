@@ -1,14 +1,14 @@
 # Blog
 
-### 写作
+### 随笔系列
 
-* [「 探索 3D 物理世界 - Three.js and Cannon.js 」](https://github.com/Felix-Lin-725/Blog/issues/26)
-* [「 Matter.js 2D 物理引擎试玩报告 」](https://github.com/FelixLin-404/Blog/issues/31)
-* [「 Phaser 3 游戏引擎特性一览 」](https://github.com/FelixLin-404/Blog/issues/27)
-* [「 H5 游戏开发：复古小蜜蜂 」](https://github.com/FelixLin-404/Blog/issues/32)
-* [「 也许是新一代的动画格式 - APNG 」](https://github.com/FelixLin-404/Blog/issues/30)
-* [「 浅谈 WebVR 」](https://github.com/FelixLin-404/Blog/issues/29)
-* [「 Whistle 使用实践指南 」](https://github.com/BlackCubeNo99/Blog/issues/35)
+* [ 随笔系列 - 探索 3D 物理世界 - Three.js and Cannon.js](https://github.com/Felix-Lin-725/Blog/issues/26)
+* [ 随笔系列 - Matter.js 2D 物理引擎试玩报告](https://github.com/FelixLin-404/Blog/issues/31)
+* [ 随笔系列 - Phaser 3 游戏引擎特性一览](https://github.com/FelixLin-404/Blog/issues/27)
+* [ 随笔系列 - H5 游戏开发：复古小蜜蜂](https://github.com/FelixLin-404/Blog/issues/32)
+* [ 随笔系列 - 也许是新一代的动画格式 - APNG](https://github.com/FelixLin-404/Blog/issues/30)
+* [ 随笔系列 - 浅谈 WebVR](https://github.com/FelixLin-404/Blog/issues/29)
+* [ 随笔系列 - Whistle 使用实践指南](https://github.com/BlackCubeNo99/Blog/issues/35)
 
 ### 前端工程化系列
 * [前端工程化系列 - 使用 Husky 提升前端代码质量](https://github.com/BlackCubeNo99/Blog/issues/43)
