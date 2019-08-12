@@ -48,9 +48,6 @@
 * [CSS 系列 - 常用 Sass Mixis 汇总](https://github.com/BlackCubeNo99/Blog/issues/39)
 * [CSS 系列 - 移动端小技巧](https://github.com/BlackCubeNo99/Blog/issues/40)
 
-### Phaser 游戏系列（编写中）
-* [Phaser 游戏基础]()
-
 ### 其他
 * [「 开发 Bug 集合 」](https://github.com/BlackCubeNo99/Blog/issues/44)
 * [「 Web 前端开发精选工具 」](https://github.com/FelixLin-404/Blog/issues/21)
@@ -63,6 +60,9 @@
 * [HTTP 系列 - Headers](https://github.com/FelixLin-404/Blog/issues/13)
 * [HTTP 系列 - HTTP 状态码](https://github.com/FelixLin-404/Blog/issues/12)
 * [HTTP 系列 - RESTful API（编写中）]()
+
+### Phaser 游戏系列（编写中）
+* [Phaser 游戏基础]()
 
 ### React 系列（编写中）
 * [React 系列 - 关于 React](https://github.com/FelixLin-404/Blog/issues/22)
