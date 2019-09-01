@@ -13,6 +13,7 @@
 ### 前端工程化系列
 * [前端工程化系列 - 使用 Husky 提升前端代码质量](https://github.com/BlackCubeNo99/Blog/issues/43)
 * [前端工程化系列 - 前端编码建议](https://github.com/BlackCubeNo99/Blog/issues/34)
+* [前端工程化系列 - JS 命名规范](https://github.com/BlackCubeNo99/Blog/issues/49)
 
 ### JavaScript ES6 系列
 * [JavaScript ES6 系列 - 生成器 Generator](https://github.com/Felix-Lin-725/Blog/issues/25)
