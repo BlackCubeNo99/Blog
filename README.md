@@ -75,6 +75,7 @@
 * [React 系列 - 单元测试]()
 
 ### Vue 系列（编写中）
+* [Vue 系列 - Vue 3.0 版本值得关注的特性](https://github.com/BlackCubeNo99/Blog/issues/50)
 * [Vue 系列 - 预渲染与服务端渲染]()
 * [Vue 系列 - 生命周期]()
 * [Vue 系列 - 组件间通讯]()
